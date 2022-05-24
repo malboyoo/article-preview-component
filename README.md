@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Solution URL here](https://app.netlify.com/sites/bespoke-jalebi-8868fb/overview)
--  Live Site URL: [Live site URL here](https://app.netlify.com/sites/bespoke-jalebi-8868fb/overview)
+-  Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/article-preview-component-flexboxgridtypescript-kdovxM0eoz)
+-  Live Site URL: [Live site URL here](https://bespoke-jalebi-8868fb.netlify.app/)
 
 ### Built with
 
